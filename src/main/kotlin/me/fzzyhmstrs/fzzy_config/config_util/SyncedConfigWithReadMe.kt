@@ -6,8 +6,8 @@ import me.fzzyhmstrs.fzzy_config.interfaces.SyncedConfig
 import me.fzzyhmstrs.fzzy_config.registry.SyncedConfigRegistry
 import me.fzzyhmstrs.fzzy_config.validated_field.list.ValidatedList
 import me.fzzyhmstrs.fzzy_config.validated_field.map.ValidatedStringKeyMap
-import net.minecraft.registry.Registries
 import net.minecraft.util.Identifier
+import net.minecraft.util.registry.Registry
 
 /**
  * Helper class for the creation of synchronized configurations
@@ -94,7 +94,7 @@ abstract class SyncedConfigWithReadMe(
 
             var testSection_3 = TestSection3(section3Header)
             class TestSection3(section3Header: Header): ConfigSection(section3Header){
-                var test_Id = ValidatedIdentifier(Identifier("redstone"), Registries.ITEM.ids, "ID needs to be in the item registry.")
+                var test_Id = ValidatedIdentifier(Identifier("redstone"), Registry.ITEM.ids, "ID needs to be in the item registry.")
                 var test_List = ValidatedList(
                     listOf(1, 3, 5, 7),
                     Int::class.java,
@@ -112,7 +112,7 @@ abstract class SyncedConfigWithReadMe(
                 ),
                 Boolean::class.java,
                 {id,_ -> val idChk = Identifier.tryParse(id); if(idChk == null){false} else {
-                    Registries.ITEM.containsId(idChk)}  },
+                    Registry.ITEM.containsId(idChk)}  },
                 "Map key needs to be a valid item identifier; map entry needs to be a boolean ('true' or 'false')"
             )
 
