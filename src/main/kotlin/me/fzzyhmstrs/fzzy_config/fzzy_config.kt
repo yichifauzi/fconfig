@@ -127,6 +127,7 @@ object FCC: ClientModInitializer {
                 scopeToOpen = ""
             }
             if (openRestartScreen) {
+                openRestartScreen = false
                 ConfigApiImplClient.openRestartScreen()
             }
         }
