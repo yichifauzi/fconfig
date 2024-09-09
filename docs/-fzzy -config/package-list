@@ -1,6 +1,28 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
 $dokka.location:me.fzzyhmstrs.fzzy_config.annotations////PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/index.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action.RELOAD_BOTH///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/-r-e-l-o-a-d_-b-o-t-h/index.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action.RELOAD_DATA///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/-r-e-l-o-a-d_-d-a-t-a/index.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action.RELOAD_RESOURCES///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/-r-e-l-o-a-d_-r-e-s-o-u-r-c-e-s/index.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action.RELOG///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/-r-e-l-o-g/index.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action.RESTART///PointingToDeclaration/{"org.jetbrains.dokka.links.EnumEntryDRIExtra":{"key":"org.jetbrains.dokka.links.EnumEntryDRIExtra"}}-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/-r-e-s-t-a-r-t/index.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/index.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action/clientPrompt/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/client-prompt.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action/clientUpdateMessage/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/client-update-message.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action/configTooltip/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/config-tooltip.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action/entries/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/entries.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action/isPriority/#me.fzzyhmstrs.fzzy_config.annotations.Action/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/is-priority.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action/priorityOf/#me.fzzyhmstrs.fzzy_config.annotations.Action/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/priority-of.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action/restartPrompt/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/restart-prompt.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action/sectionTooltip/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/section-tooltip.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action/serverUpdateMessage/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/server-update-message.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action/settingTooltip/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/setting-tooltip.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action/sprite/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/sprite.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action/valueOf/#kotlin.String/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/value-of.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Action/values/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-action/values.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/AdminAccess///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-admin-access/index.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/AdminAccess/fallback/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-admin-access/fallback.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/AdminAccess/perms/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-admin-access/perms.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.annotations/BlockArray///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-block-array/index.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.annotations/BlockArray/itemsPerLine/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-block-array/items-per-line.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.annotations/ClientModifiable///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-client-modifiable/index.html
@@ -18,11 +40,16 @@ $dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Integer/group/#/PointingTo
 $dokka.location:me.fzzyhmstrs.fzzy_config.annotations/LiteralString///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-literal-string/index.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.annotations/MultilineString///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-multiline-string/index.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.annotations/NonSync///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-non-sync/index.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/RequiresAction///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-requires-action/index.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/RequiresAction/action/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-requires-action/action.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.annotations/RequiresRestart///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-requires-restart/index.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.annotations/TomlHeaderComment///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-toml-header-comment/index.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.annotations/TomlHeaderComment/text/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-toml-header-comment/text.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Version///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-version/index.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.annotations/Version/version/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-version/version.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/WithCustomPerms///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-with-custom-perms/index.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/WithCustomPerms/fallback/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-with-custom-perms/fallback.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.annotations/WithCustomPerms/perms/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-with-custom-perms/perms.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.annotations/WithPerms///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-with-perms/index.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.annotations/WithPerms/opLevel/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.annotations/-with-perms/op-level.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.api////PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.api/index.html
@@ -60,15 +87,18 @@ $dokka.location:me.fzzyhmstrs.fzzy_config.config/Config/name/#/PointingToDeclara
 $dokka.location:me.fzzyhmstrs.fzzy_config.config/Config/save/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config/save.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.config/Config/subfolder/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config/subfolder.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.config/Config/update/#kotlin.Int/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config/update.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext.Key///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/-key/index.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext.Keys///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/-keys/index.html
-$dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext.Keys/RESTART_KEY/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/-keys/-r-e-s-t-a-r-t_-k-e-y.html
-$dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext.Keys/VERSION_KEY/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/-keys/-v-e-r-s-i-o-n_-k-e-y.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext.Keys/ACTIONS/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/-keys/-a-c-t-i-o-n-s.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext.Keys/RESTART_RECORDS/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/-keys/-r-e-s-t-a-r-t_-r-e-c-o-r-d-s.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext.Keys/VERSIONS/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/-keys/-v-e-r-s-i-o-n-s.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/index.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext/ConfigContext/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/-config-context.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext/config/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/config.html
-$dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext/getBoolean/#kotlin.String/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/get-boolean.html
-$dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext/getInt/#kotlin.String/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/get-int.html
-$dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext/withFlag/#kotlin.String#kotlin.Any/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/with-flag.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext/get/#me.fzzyhmstrs.fzzy_config.config.ConfigContext.Key[TypeParam(bounds=[kotlin.Any])]/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/get.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext/getInt/#me.fzzyhmstrs.fzzy_config.config.ConfigContext.Key[kotlin.Int]/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/get-int.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext/getOrDefault/#me.fzzyhmstrs.fzzy_config.config.ConfigContext.Key[TypeParam(bounds=[kotlin.Any])]#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/get-or-default.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigContext/withContext/#me.fzzyhmstrs.fzzy_config.config.ConfigContext.Key[TypeParam(bounds=[kotlin.Any])]#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-context/with-context.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigSection///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-section/index.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigSection/ConfigSection/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-section/-config-section.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.config/ConfigSection/descriptionKey/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.config/-config-section/description-key.html
@@ -128,6 +158,15 @@ $dokka.location:me.fzzyhmstrs.fzzy_config.entry/EntryValidator/validateEntry/#Ty
 $dokka.location:me.fzzyhmstrs.fzzy_config.entry/EntryWidget///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.entry/-entry-widget/index.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.entry/EntryWidget/widgetAndTooltipEntry/#me.fzzyhmstrs.fzzy_config.validation.misc.ChoiceValidator[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.entry/-entry-widget/widget-and-tooltip-entry.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.entry/EntryWidget/widgetEntry/#me.fzzyhmstrs.fzzy_config.validation.misc.ChoiceValidator[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.entry/-entry-widget/widget-entry.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.networking////PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.networking/index.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.networking/ConfigPermissionsS2CCustomPayload.Companion///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.networking/-config-permissions-s2-c-custom-payload/-companion/index.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.networking/ConfigPermissionsS2CCustomPayload.Companion/codec/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.networking/-config-permissions-s2-c-custom-payload/-companion/codec.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.networking/ConfigPermissionsS2CCustomPayload.Companion/type/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.networking/-config-permissions-s2-c-custom-payload/-companion/type.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.networking/ConfigPermissionsS2CCustomPayload///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.networking/-config-permissions-s2-c-custom-payload/index.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.networking/ConfigPermissionsS2CCustomPayload/ConfigPermissionsS2CCustomPayload/#kotlin.String#kotlin.collections.MutableMap[kotlin.String,kotlin.Boolean]/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.networking/-config-permissions-s2-c-custom-payload/-config-permissions-s2-c-custom-payload.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.networking/ConfigPermissionsS2CCustomPayload/getId/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.networking/-config-permissions-s2-c-custom-payload/get-id.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.networking/ConfigPermissionsS2CCustomPayload/id/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.networking/-config-permissions-s2-c-custom-payload/id.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.networking/ConfigPermissionsS2CCustomPayload/permissions/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.networking/-config-permissions-s2-c-custom-payload/permissions.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.screen.entry////PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.screen.entry/index.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.screen.entry/Decorated///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.screen.entry/-decorated/index.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.screen.entry/Decorated/decorationId/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.screen.entry/-decorated/decoration-id.html
@@ -848,9 +887,9 @@ $dokka.location:me.fzzyhmstrs.fzzy_config.validation.misc/ChoiceValidator/conver
 $dokka.location:me.fzzyhmstrs.fzzy_config.validation.misc/ChoiceValidator/validateEntry/#TypeParam(bounds=[kotlin.Any?])#me.fzzyhmstrs.fzzy_config.entry.EntryValidator.ValidationType/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.validation.misc/-choice-validator/validate-entry.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.validation.misc/ValidatedAny///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.validation.misc/-validated-any/index.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.validation.misc/ValidatedAny/ValidatedAny/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.validation.misc/-validated-any/-validated-any.html
+$dokka.location:me.fzzyhmstrs.fzzy_config.validation.misc/ValidatedAny/actions/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.validation.misc/-validated-any/actions.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.validation.misc/ValidatedAny/copyStoredValue/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.validation.misc/-validated-any/copy-stored-value.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.validation.misc/ValidatedAny/instanceEntry/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.validation.misc/-validated-any/instance-entry.html
-$dokka.location:me.fzzyhmstrs.fzzy_config.validation.misc/ValidatedAny/restartRequired/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.validation.misc/-validated-any/restart-required.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.validation.misc/ValidatedBoolean///PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.validation.misc/-validated-boolean/index.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.validation.misc/ValidatedBoolean/ValidatedBoolean/#/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.validation.misc/-validated-boolean/-validated-boolean.html
 $dokka.location:me.fzzyhmstrs.fzzy_config.validation.misc/ValidatedBoolean/ValidatedBoolean/#kotlin.Boolean/PointingToDeclaration/-fzzy -config/me.fzzyhmstrs.fzzy_config.validation.misc/-validated-boolean/-validated-boolean.html
@@ -1071,6 +1110,7 @@ me.fzzyhmstrs.fzzy_config.annotations
 me.fzzyhmstrs.fzzy_config.api
 me.fzzyhmstrs.fzzy_config.config
 me.fzzyhmstrs.fzzy_config.entry
+me.fzzyhmstrs.fzzy_config.networking
 me.fzzyhmstrs.fzzy_config.screen
 me.fzzyhmstrs.fzzy_config.screen.entry
 me.fzzyhmstrs.fzzy_config.screen.internal
